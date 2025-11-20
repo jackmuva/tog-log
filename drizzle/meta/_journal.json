@@ -8,6 +8,13 @@
       "when": 1763614681523,
       "tag": "0000_greedy_lorna_dane",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "6",
+      "when": 1763617975261,
+      "tag": "0001_worthless_namora",
+      "breakpoints": true
     }
   ]
 }
