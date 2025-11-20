@@ -1,6 +1,8 @@
 "use client";
 
+import { SidebarTrigger } from "@/components/ui/sidebar";
 import { User } from "@/db/schema";
+import { ToglogSidebar } from "../toglog-sidebar";
 
 export const TogglePage = ({
 	user
@@ -17,6 +19,7 @@ export const TogglePage = ({
 }) => {
 	return (
 		<div className="h-dvh w-dvw">
+			<SidebarTrigger />
 			Real Page
 		</div>
 	);
